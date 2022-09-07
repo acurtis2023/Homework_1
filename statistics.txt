@@ -1,0 +1,3 @@
+- mean and standard deviation
+- regression
+- bayes theorem
